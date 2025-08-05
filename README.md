@@ -14,5 +14,5 @@
 - 2024 HL FMA aMap Stride Championship 수상 (2024.09 ~ 2024.10)
   ▸ [`Repo`](https://github.com/Jeomyo/2024_HL_FMA_Jeomyo)
 - 2025 현대 H-Mobility Class 기본 과정 수료 (2025.04 ~ 2025.06)
-- 2025 현대 H-Mobility Class 심화 과정 이수 중 (2025.06 ~)
+- 2025 현대 H-Mobility Class 심화 과정 이수 수료 및 교육 내 자율주행 경진대회 3등 (2025.06 ~ 2025.07)
 ---
